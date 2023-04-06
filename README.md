@@ -1,2 +1,6 @@
 # terminal-table-project-sasa405
-terminal-table-project
+
+## Usage
+Import and initialize a new tabel.
+
+const table = new table ();
